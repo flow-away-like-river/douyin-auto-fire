@@ -1,7 +1,7 @@
 {
-    "friends": ["小明"],
+    "friends": ["网名加载失败ʕ̯•͡˔•̯᷅ʔ"],
     "messages": [
-        {"type": "text", "value": "今天也要开心呀 😊"}
+        {"type": "text", "value": "hello"}
     ],
     "stickers": {
         "比心": {"label": "比心", "category": "常用", "fallback_index": 3}
